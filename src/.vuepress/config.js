@@ -26,6 +26,7 @@ module.exports = {
    *
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
+   dest: "build",
   themeConfig: {
     repo: '',
     editLinks: false,
@@ -48,7 +49,12 @@ module.exports = {
       {
         text: 'GitHub',
         link: 'https://github.com/NTIHS-IT/blog',
-      }
+      },
+      {
+        text: "TimeLine",
+        link: "/timeline/",
+        icon: "reco-date"
+      },
     ],
     sidebar: {
       '/guide/': [
