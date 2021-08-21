@@ -6,7 +6,7 @@ categories:
 tags:
  - 幹部介紹
 ---
-
+:::tip
 噹噹噹噹!!\
 第二篇幹介文出爐啦~\
 今天要介紹的是我們的電神副社-吳庭華\
@@ -14,20 +14,24 @@ tags:
 大家都叫他西瓜\
 是個沉穩內向的孩紙\
 以下請副社來自我介紹:
-:::tip
-我是副社吳庭華，非常爛有問題一律找社長，\
-社長很電會Python又會寫網頁，\
-我只會寫一點點簡單的網頁QQ，\
-有興趣可以看我的GitHub (https://github.com/xiaoxigua-1\
-還有我的個人Blog有時候會寫一些廢文 (https://xiaoxigua-1.github.io\
+```
+我是副社吳庭華，非常爛有問題一律找社長，
+社長很電會Python又會寫網頁，
+我只會寫一點點簡單的網頁QQ，
+有興趣可以看我的GitHub (https://github.com/xiaoxigua-1
+還有我的個人Blog有時候會寫一些廢文 (https://xiaoxigua-1.github.io
 社長是電神!!!!
-:::
+```
 結果副社更謙虛ww\
 副社的口頭禪: 椒麻椒麻\
 有問題還是可以找副社\
-但他可能只會用表情符號回你喔ww\
+但他可能只會用表情符號回你喔ww
 
-![](../img/x/1.jpg)
-![](../img/x/2.jpg)
-![](../img/x/3.jpg)
-![](../img/x/4.jpg)
+:::
+
+:::tip
+![GG](../img/x/1.jpg)
+![GG](../img/x/2.jpg)
+![GG](../img/x/3.jpg)
+![GG](../img/x/4.jpg)
+:::
