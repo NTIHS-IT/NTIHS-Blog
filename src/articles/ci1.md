@@ -31,7 +31,7 @@ By the way\
 (編編都被社長嘴爛QAQ\
 不過熟了之後會發現社長人其實很好的 吧(?
 
-![](./img/y/1.jpg)
-![](./img/y/2.jpg)
-![](./img/y/3.jpg)
-![](./img/y/4.jpg)
+![](../img/y/1.jpg)
+![](../img/y/2.jpg)
+![](../img/y/3.jpg)
+![](../img/y/4.jpg)

@@ -27,7 +27,7 @@ tags:
 有問題還是可以找副社\
 但他可能只會用表情符號回你喔ww
 
-![](./img/x/1.jpg)
-![](./img/x/2.jpg)
-![](./img/x/3.jpg)
-![](./img/x/4.jpg)
+![](../img/x/1.jpg)
+![](../img/x/2.jpg)
+![](../img/x/3.jpg)
+![](../img/x/4.jpg)
