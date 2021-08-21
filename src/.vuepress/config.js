@@ -80,18 +80,23 @@ module.exports = {
     type: 'blog',
     blogConfig: {
       category: {
-        location: 2,
+        location: 3,
         text: 'Category'
       },
       tag: {
-        location: 3,
+        location: 4,
         text: 'Tag'
       }
     },
     nav: [
       {
+        text: '主網頁',
+        link: 'https://ntihs-it.github.io/',
+      },
+      {
         text: 'GitHub',
         link: 'https://github.com/NTIHS-IT/blog',
+        icon: 'reco-github',
       },
       {
         text: 'TimeLine',
