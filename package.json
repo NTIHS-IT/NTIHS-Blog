@@ -1,0 +1,20 @@
+{
+  "name": "ntihs-it-blog",
+  "version": "0.0.1",
+  "description": "網頁社blog",
+  "main": "index.js",
+  "authors": {
+    "name": "NTIHS",
+    "email": ""
+  },
+  "repository": "/NTIHS-blog",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3",
+    "vuepress-theme-reco": "^1.6.6"
+  }
+}
