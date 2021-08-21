@@ -101,6 +101,13 @@ module.exports = {
         email: 'Null',
         link: 'https://github.com/zanya945',
         logo: 'https://avatars.githubusercontent.com/u/77784793?v=4',
+      },
+      {
+        title: '匿名提問',
+        desc: 'link',
+        email: '',
+        link: 'https://peing.net/en/ntihs112th',
+        logo: '../img/2.png'
       }
     ],
     logo: 'https://avatars.githubusercontent.com/u/87763641?s=200&v=4',
