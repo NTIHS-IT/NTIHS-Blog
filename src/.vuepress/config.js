@@ -27,7 +27,7 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   dest: "build",
-  base: "/",
+  base: "/NTIHS-Blog/",
   themeConfig: {
     repo: '',
     editLinks: false,
