@@ -34,6 +34,16 @@ module.exports = {
     lastUpdated: false,
     noFoundPageByTencent: false,
     type: "blog",
+    blogConfig: {
+      category: {
+        location: 2,
+        text: "Category"
+      },
+      tag: {
+        location: 3,
+        text: "Tag"
+      }
+    },
     nav: [
       {
         text: 'GitHub',
@@ -52,6 +62,26 @@ module.exports = {
         }
       ],
     },
+    friendLink: [
+      {
+        title: "xiao xigua",
+        desc: "GitHub link",
+        email: "aijdfajodwsdf@gmail.com",
+        link: "https://github.com/xiaoxigua-1",
+      },
+      {
+        title: "Young",
+        desc: "GitHub link",
+        emai: "young20050727@gmail.com",
+        link: "https://github.com/Young-TW",
+      },
+      {
+        title: "zan zan",
+        desc: "GitHub link",
+        email: "Null",
+        link: "https://github.com/zanya945",
+      }
+    ],
     logo: "https://avatars.githubusercontent.com/u/87763641?s=200&v=4",
     search: true,
     searchMaxSuggestions: 10,
