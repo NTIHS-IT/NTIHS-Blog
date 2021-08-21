@@ -19,48 +19,12 @@ module.exports = {
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
-    [
-      'meta',
-      {
-        'property': 'og:title',
-        'content': 'NTIHS-IT Blog'
-      }
-    ],
-    [
-      'meta',
-      {
-        'property': 'og:url',
-        'content': 'https://ntihs-it.github.io/NTIHS-Blog/'
-      }
-    ],
-    [
-      'meta',
-      {
-        'property': 'og:image',
-        'content': 'https://avatars.githubusercontent.com/u/87763641?s=200&v=4'
-      }
-    ],
-    [
-      'meta',
-      {
-        'property': 'og:description',
-        'content': '台南高工網頁社 Blog'
-      }
-    ],
-    [
-      'meta',
-      {
-        'property': 'og:site_name',
-        'content': 'NTIHS-IT'
-      }
-    ],
-    [
-      "link",
-      {
-        "rel": "icon",
-        "href": "https://avatars.githubusercontent.com/u/87763641?s=200&v=4"
-      }
-    ],
+    ['meta', { property: 'og:title', content: 'NTIHS-IT Blog' }],
+    ['meta', { property: 'og:url', content: 'https://ntihs-it.github.io/NTIHS-Blog/' }],
+    ['meta', { property: 'og:image', content: 'https://avatars.githubusercontent.com/u/87763641?s=200&v=4' }],
+    ['meta', { property: 'og:description', content: '台南高工網頁社 Blog' }],
+    ['meta', { property: 'og:site_name', content: 'NTIHS-IT' }],
+    ['link', { rel: 'icon', href: 'https://avatars.githubusercontent.com/u/87763641?s=200&v=4' }],
   ],
   theme: 'reco',
   /**
