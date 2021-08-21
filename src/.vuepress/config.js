@@ -105,9 +105,9 @@ module.exports = {
       {
         title: '匿名提問',
         desc: 'link',
-        email: '',
+        email: 'Null',
         link: 'https://peing.net/en/ntihs112th',
-        logo: '../img/2.png'
+        logo: 'https://cdn.discordapp.com/attachments/755725610868932678/878616728442138645/2.png'
       }
     ],
     logo: 'https://avatars.githubusercontent.com/u/87763641?s=200&v=4',
