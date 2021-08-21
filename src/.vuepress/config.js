@@ -75,18 +75,21 @@ module.exports = {
         desc: "GitHub link",
         email: "aijdfajodwsdf@gmail.com",
         link: "https://github.com/xiaoxigua-1",
+        logo: "https://avatars.githubusercontent.com/u/60529600?v=4",
       },
       {
         title: "Young",
         desc: "GitHub link",
         emai: "young20050727@gmail.com",
         link: "https://github.com/Young-TW",
+        logo: "https://avatars.githubusercontent.com/u/62501690?v=4",
       },
       {
         title: "zan zan",
         desc: "GitHub link",
         email: "Null",
         link: "https://github.com/zanya945",
+        logo: "https://avatars.githubusercontent.com/u/77784793?v=4",
       }
     ],
     logo: "https://avatars.githubusercontent.com/u/87763641?s=200&v=4",
