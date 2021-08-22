@@ -34,6 +34,6 @@ By the way\
 :::tip 照片
 ![GG](../img/y/1.jpg)
 ![GG](../img/y/2.jpg)
-![GG](../img/y/4.jpg)
 ![GG](../img/y/3.jpg)
+![GG](../img/y/4.jpg)
 :::

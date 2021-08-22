@@ -32,6 +32,6 @@ tags:
 :::tip 照片
 ![GG](../img/r/1.jpg)
 ![GG](../img/r/2.png)
-![GG](../img/r/4.jpg)
-![GG](../img/r/3.png)
+![GG](../img/r/3.jpg)
+![GG](../img/r/4.png)
 :::
