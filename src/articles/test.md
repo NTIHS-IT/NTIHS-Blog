@@ -6,7 +6,9 @@ categories:
 tags:
  - test
 ---
+這是台南高工網頁設計社的Blog
+
 ::: right
-這是台南高工網頁設計社的Blog  
-於2021/8/21建立
+
+<p style="color: #ffff;">於2021/8/21建立</p>
 :::
