@@ -88,18 +88,7 @@ module.exports = {
         icon: 'reco-date'
       },
     ],
-    sidebar: {
-      '/guide/': [
-        {
-          title: 'Guide',
-          collapsable: false,
-          children: [
-            '',
-            'using-vue',
-          ]
-        }
-      ],
-    },
+    sidebar: { },
     friendLink: [
       {
         title: 'xiao xigua',
