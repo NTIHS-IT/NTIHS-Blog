@@ -59,8 +59,28 @@ module.exports = {
       },
       {
         text: 'GitHub',
-        link: 'https://github.com/NTIHS-IT/blog',
+        link: 'https://github.com/NTIHS-IT',
         icon: 'reco-github',
+      },
+      {
+        text: 'Facebook',
+        link: 'https://www.facebook.com/103730941540184',
+        icon: 'reco-facebook',
+      },
+      {
+        text: 'Instergram',
+        link: 'https://www.instagram.com/ntihs.web/',
+        icon: 'fab fa-instagram'
+      },
+      {
+        text: 'Youtube',
+        link: 'https://www.youtube.com/channel/UCex1cjm-Z6WGP1O1CSNTVpw',
+        icon: 'fab fa-youtube'
+      },
+      {
+        text: 'Discord',
+        link: 'https://discord.gg/QzGSZ3kwgY',
+        icon: 'fab fa-discord'
       },
       {
         text: 'TimeLine',
