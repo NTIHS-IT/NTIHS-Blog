@@ -44,11 +44,11 @@ module.exports = {
     type: 'blog',
     blogConfig: {
       category: {
-        location: 3,
+        location: 7,
         text: 'Category'
       },
       tag: {
-        location: 4,
+        location: 8,
         text: 'Tag'
       }
     },
