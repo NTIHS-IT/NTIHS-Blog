@@ -11,5 +11,6 @@ tags:
 
 - 寫了[網頁社的官網](https://ntihs-it.github.io/)
 - 幫NTIHS-IT 的 [GitHub](https://github.com/NTIHS-IT)創造了3個PR
+- 擁有[\\Young 教我/](https://young.xn--wnux6e.xyz/)網站
 
 :::
