@@ -1,6 +1,14 @@
 const { description } = require('../../package')
 
 module.exports = {
+  plugins: [
+    [
+      '@vuepress-reco/vuepress-plugin-rss', 
+      {
+        site_url: 'https://ntihs-it.github.io/NTIHS-Blog/'
+      }
+    ]
+  ],
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
@@ -126,6 +134,13 @@ module.exports = {
     author: 'NTIHS-IT',
     authorAvatar: 'https://avatars.githubusercontent.com/u/87763641?s=200&v=4',
     startYear: '2021',
+    vssueConfig: {
+      platform: 'github',
+      owner: 'ntihs-it',
+      repo: 'NTIHS-Blog',
+      clientId: '442d96afca01014a729c',
+      clientSecret: '7101652f08a969e43d2b3ae8b2d491ec09ed18c0',
+    }
   },
 
   /**
