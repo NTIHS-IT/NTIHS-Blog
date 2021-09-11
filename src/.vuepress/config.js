@@ -58,6 +58,11 @@ module.exports = {
         link: 'https://ntihs-it.github.io/',
       },
       {
+        text: 'RSS',
+        link: 'https://ntihs-it.github.io/NTIHS-Blog/rss.xml',
+        icon: 'fas fa-rss',
+      },
+      {
         text: 'GitHub',
         link: 'https://github.com/NTIHS-IT',
         icon: 'reco-github',
