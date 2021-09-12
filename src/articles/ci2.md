@@ -33,7 +33,7 @@ tags:
 
 ::: right
 [GitHub](https://github.com/xiaoxigua-1)
-[廢文](https://xiaoxigua-1.github.io)
+[個人網站]](https://xiaoxigua-1.github.io)
 :::
 
 :::tip 照片
