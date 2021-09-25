@@ -28,8 +28,8 @@ jobs:
       run: |
         cd ./build
         git init
-        git config --global user.email aijdfajodwsdf@gmail.com
-        git config --global user.name xiaoxigua-1
+        git config --global user.email young20050727@gmail.com
+        git config --global user.name Young-TW
         git status
         git remote add origin https://${{secrets.GG}}@github.com/NTIHS-IT/NTIHS-Blog.git
         git checkout -b gh-pages-1
