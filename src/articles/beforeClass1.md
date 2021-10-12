@@ -17,7 +17,6 @@ tags:
 🍉上課內容:  
 介紹社團各項事務和活動以及各帳號  
 安裝vscode等  
-以下是副社拍的安裝vscode的影片  
-（https://youtu.be/LsnXGW-GKbk  
+以下是副社拍的[安裝vscode的影片](https://youtu.be/LsnXGW-GKbk)  
 大家可以先去看看喔QwQ  
 :::

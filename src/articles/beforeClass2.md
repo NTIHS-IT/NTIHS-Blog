@@ -14,7 +14,6 @@ tags:
 🍉講師:Young  
 🍉上課內容:  
 介紹終端機和基本的使用方法  
-以下是這次的課前預習  
-https://hackmd.io/@Young-/B1NRsANjd  
+以下是這次的[課前預習](https://hackmd.io/@young-tw/B1sKrN67F)  
 以上都是會教的東東，大家可以先上網查，先預習，教學時可以更快理解內容喔QwQ  
 :::
